@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
 public class OperatorHWwithScannerClass {
+
+    // add comment for github
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
 
